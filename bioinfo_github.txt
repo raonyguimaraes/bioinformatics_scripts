@@ -1,0 +1,16 @@
+
+Languages for bioinformatics
+
+https://github.com/search?utf8=%E2%9C%93&q=bioinformatics&type=
+
+1,615 Python
+336 Perl
+304 R
+282 Java
+204 C++
+196 Shell
+187 HTML
+163 JavaScript
+132 Jupyter Notebook
+117 C
+
